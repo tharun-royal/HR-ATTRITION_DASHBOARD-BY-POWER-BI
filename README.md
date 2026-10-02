@@ -99,26 +99,3 @@ This report offers key insights to enhance employee wellness and retention.
 ![Employee Wellness Report](Dashboard_Images/Emoloyee_Wellness.png)
 ---
 
-## Live Links
-
-- **Live Presentation:** [View Here](https://www.canva.com/design/DAGYFNLGS88/DOTwp3dJg3McIsKCLypY5g/view?utm_content=DAGYFNLGS88&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-- **Interactive Dashboard:** [Access the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk0ZDViZWQtZDgwMi00MzU3LTg5ZGMtMjAwYzUxYTBhZTI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
----
-
-## Conclusion
-
-**"Retention isn’t just about reducing attrition; it’s about creating a workplace where employees want to stay and grow."**
-
-With this dashboard, organizations can transition from reactive to proactive HR management, leveraging data to craft informed retention strategies.
-
----
-
-## Author
-
-Presented by **Karan Bharale**  
-For any questions or feedback, please reach out.
-
-- **Email:** [karanbharale.work@gmail.com](mailto:karanbharale.work@gmail.com)  
-- **LinkedIn:** [Connect with Me Here](https://www.linkedin.com/in/karan-bharale/)
-
